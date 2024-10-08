@@ -17,8 +17,15 @@
 > * Kafka message are persisted on the disk and replicated within cluster to prevent data loss.
 > * Kafka is build on top of **Zookeeper** synchronization service
 
-### Benifits of Kafka 
+### What are the Benifits of Kafka 
 > * **Reliability** :- Kafka is distributed partitioned replicated and fault tolerance.
 > * **Scalibility** :- Kafka scales easly without any downtime
 > * **Durabilities** :- Kafka uses distributed commit log  which meanssage persist on disk as fast as posible.
 > * **Performance** :- Kafka is high throwput for both publish ad subscribe message
+> * Kafka is very fast and guranty zero downtime.### What are the Benifits of Kafka
+
+### What are the Use case of Kafka 
+> * **Metrics:-**
+> * **Log aggregation solution:-** Kafka can be user into across organization to collect the log from multiple services and make it available in a standered format to multiple consumer.
+> * **Stream Processing:-**
+![image](https://github.com/user-attachments/assets/22fe5548-4b2d-4e9a-be2f-992ee09bf558)
